@@ -1,2 +1,6 @@
 I AM A QA TESTER
+<<<<<<< HEAD
 I AM OKOK
+=======
+I AM NOT OK
+>>>>>>> tara
